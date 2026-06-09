@@ -6,3 +6,9 @@ plotly
 matplotlib
 seaborn
 joblib
+sqlalchemy
+pdfplumber
+python-docx
+spacy
+nltk
+reportlab
