@@ -1,0 +1,86 @@
+Remove-Item .gitignore -Force
+@"
+# Virtual Environment (NEVER upload this - it's huge!)
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache/
+
+# Database files (will be created on first run)
+*.db
+*.sqlite
+*.sqlite3
+database/*.db
+
+# Generated reports (PDFs are large)
+reports/
+reports/*.pdf
+reports/*.png
+reports/*.jpg
+*.pdf
+
+# User uploaded files
+uploads/
+uploads/resumes/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Environment variables (contains secrets)
+.env
+.streamlit/secrets.toml
+
+# Model files (optional - comment out if you want to include them)
+# models/*.pkl
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+"@ | Out-File -FilePath .gitignore -Encoding utf8

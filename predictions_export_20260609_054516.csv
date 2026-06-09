@@ -1,0 +1,31 @@
+id,student_name,date,bachelor_percentage,mca_percentage,backlogs,communication_score,aptitude_score,coding_skills,internship_done,projects_done,prediction_result,probability,improvement_points
+1,Pranshu Katiyar,2026-06-09 04:22:55.839481,82.0,85.0,0,8,7,8,1,5,1,0.54,Focus on technical skills and projects
+2,Pranshu Katiyar,2026-06-09 04:25:17.681585,84.0,93.0,0,9,9,9,1,10,1,0.54,Focus on technical skills and projects
+3,Pranshu Katiyar,2026-06-09 04:25:29.908166,100.0,100.0,0,10,10,10,1,10,1,0.54,Focus on technical skills and projects
+4,Dilip Gupta,2026-06-09 04:47:59.434201,82.0,83.0,0,9,9,9,0,6,1,0.9335746784822123,Keep up the good work!
+5,Dilip Gupta,2026-06-09 04:48:22.545838,83.0,79.0,0,6,8,8,0,5,1,0.899553606503779,Keep up the good work!
+6,Dilip Gupta,2026-06-09 04:48:27.825544,83.0,83.0,0,6,8,8,0,5,1,0.8996388943666737,Keep up the good work!
+7,Pranshu Katiyar,2026-06-09 04:50:31.823123,82.0,84.0,0,8,8,9,0,5,1,0.9215909353153104,Keep up the good work!
+8,Pranshu Katiyar,2026-06-09 04:50:37.578562,82.0,84.0,0,10,8,9,0,5,1,0.9404183683360464,Keep up the good work!
+9,Pranshu Katiyar,2026-06-09 04:50:40.859635,82.0,84.0,0,10,10,9,0,5,1,0.9264541514551766,Keep up the good work!
+10,Pranshu Katiyar,2026-06-09 04:50:45.082899,82.0,84.0,0,10,10,10,0,5,1,0.9291982866766475,Keep up the good work!
+11,Pranshu Katiyar,2026-06-09 04:50:51.227118,82.0,84.0,0,10,10,10,0,9,1,0.9589842604740333,Keep up the good work!
+12,Pranshu Katiyar,2026-06-09 04:50:56.526219,82.0,84.0,0,10,10,10,0,10,1,0.9643012727919645,Keep up the good work!
+13,Pranshu Katiyar,2026-06-09 04:51:02.753491,82.0,84.0,1,10,10,10,0,10,1,0.9432226569504134,Keep up the good work!
+14,Pranshu Katiyar,2026-06-09 04:51:08.872236,82.0,84.0,2,10,10,10,0,10,1,0.9108486527931097,Keep up the good work!
+15,Pranshu Katiyar,2026-06-09 04:51:14.487865,82.0,84.0,0,10,10,10,0,10,1,0.9643012727919645,Keep up the good work!
+16,Pranshu Katiyar,2026-06-09 04:51:18.203988,92.0,93.0,0,10,10,10,0,10,1,0.9810966536883954,Keep up the good work!
+17,Pranshu Katiyar,2026-06-09 04:51:26.196288,98.0,93.0,0,10,10,10,0,10,1,0.9871297525891533,Keep up the good work!
+18,Pranshu Katiyar,2026-06-09 04:51:32.238877,72.0,99.0,0,10,10,10,0,10,1,0.933943837745606,Keep up the good work!
+19,Pranshu Katiyar,2026-06-09 04:51:35.377486,98.0,99.0,0,10,10,10,0,10,1,0.9871477347744184,Keep up the good work!
+20,Pranshu Katiyar,2026-06-09 04:51:35.941829,98.0,99.0,0,10,10,10,0,10,1,0.9871477347744184,Keep up the good work!
+21,Pranshu Katiyar,2026-06-09 04:51:39.149461,100.0,100.0,0,10,10,10,0,10,1,0.9887014658683483,Keep up the good work!
+22,Pranshu Katiyar,2026-06-09 05:14:52.381554,82.0,83.0,0,8,9,8,0,6,1,0.9208936512392595,Keep up the good work!
+23,Pranshu Katiyar,2026-06-09 05:16:07.038197,70.0,75.0,0,7,6,7,1,3,1,0.7935410740275559,Keep up the good work!
+24,Pranshu Katiyar,2026-06-09 05:16:24.455879,82.0,83.0,0,7,6,7,0,3,1,0.8976455320412547,Keep up the good work!
+25,Pranshu Katiyar,2026-06-09 05:16:27.312341,82.0,83.0,0,7,6,7,0,6,1,0.9311469870901704,Keep up the good work!
+26,Unknown,2026-06-09 05:21:39.525230,92.0,94.0,0,9,9,9,1,5,1,0.9573094688494741,Keep up the good work!
+27,Unknown,2026-06-09 05:22:14.782397,65.0,68.0,1,6,6,6,0,2,1,0.5602916166715468,Focus on technical skills and projects
+28,Unknown,2026-06-09 05:23:07.997020,42.0,42.0,4,3,3,2,0,0,0,0.036407622983582424,Focus on technical skills and projects
+29,Sample Test,2026-06-09 05:43:45.629751,70.0,75.0,0,7,6,7,0,4,1,0.8224028073964907,Keep up the good work!
+30,Harsh,2026-06-09 05:44:46.513210,70.0,75.0,0,7,6,7,0,3,1,0.8003274737130881,Keep up the good work!
